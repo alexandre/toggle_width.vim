@@ -8,3 +8,8 @@ Quite useful if you want to have a clear view on your files and you don't want t
 
 ## Installation
 You need, of course, the NERDTree. Then, put this script in the nerdtree_plugin/ subdirectory in the installation of NERDTree.
+
+### Using Plug
+
+If you use [Plug](), just add this line to your plugin list (probably some place in the .vimrc):
+`Plug alexandre/toggle_width.vim` 
