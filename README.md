@@ -11,6 +11,6 @@ You need, of course, the NERDTree. Then, put this script in the nerdtree_plugin/
 
 ### Using Plug
 
-If you use [Plug](https://github.com/junegunn/vim-plug), just add this line to your plugin list (probably some place in the .vimrc):
+If you use [Plug](https://github.com/junegunn/vim-plug), just add the line below to your plugin list (probably some place in the .vimrc):
 
 `Plug alexandre/toggle_width.vim` 
